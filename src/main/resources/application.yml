@@ -1,0 +1,11 @@
+server:
+  port: 9595
+
+spring:
+  data:
+    mongodb:
+      database: demoBankDB
+      username: EtarationDemo
+      password: 123Ete-Ration!
+      host: localhost
+      port: 27017
